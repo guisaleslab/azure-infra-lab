@@ -1,14 +1,6 @@
 # Azure Infrastructure Lab
 
 This project was created to practice cloud infrastructure concepts using Microsoft Azure.
-
-## Architecture
-
-![Architecture](architecture.PNG)
-
-# Azure Infrastructure Lab
-
-This project was created to practice cloud infrastructure concepts using Microsoft Azure.
 The environment was built manually using Azure Portal, focusing on networking, virtual machines, security rules and resource organization.
 
 This lab is part of my preparation for the AZ-104 (Microsoft Azure Administrator) certification.
@@ -109,4 +101,3 @@ https://www.linkedin.com/in/guilherme-de-sales-angelis-oliveira-8444b92a7/
 
 GitHub
 https://github.com/guisaleslab
-
